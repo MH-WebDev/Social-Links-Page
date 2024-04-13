@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MH-WebDev/Social-Links-Page](https://github.com/MH-WebDev/Social-Links-Page)
+- Live Site URL: [https://mh-webdev.github.io/Social-Links-Page/](https://mh-webdev.github.io/Social-Links-Page/)
 
 ### Built with
 
